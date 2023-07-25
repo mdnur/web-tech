@@ -10,7 +10,7 @@
 <body>
     <center>
         <fieldset>
-            <legend><i>Forget Password Page</i></legend>
+            <legend><i>Confirm New Password Page</i></legend>
             <form method="post" action="resetPassword.php">
                 <table>
                     <tr>
